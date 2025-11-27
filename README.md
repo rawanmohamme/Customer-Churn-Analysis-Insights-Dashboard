@@ -99,18 +99,16 @@ Visualizes:
 ## 📸 Dashboard Screenshots
 
 ### **Customer Demographics**
-![Customer Demographics](./screenshots/customer_demographics.png)
+![Customer Demographics](https://drive.google.com/file/d/1IO6Ez6aPUZ-JoF8bPRGl2FrkXHSKsbiI/view?usp=sharing)
 
 ### **Service Demographics**
-![Service Demographics](./screenshots/service_demographics.png)
+![Service Demographics](https://drive.google.com/file/d/1hrSE-u18CTU77X7RuDYkKq-52g_xJn9o/view?usp=sharing)
 
 ### **Key Drivers of Churn**
-![Key Drivers of Churn](./screenshots/key_drivers.png)
+![Key Drivers of Churn](https://drive.google.com/file/d/1-HJ2vEbkYLaVWWalnRjFnB-T1dMlEeCh/view?usp=sharing)
 
 ### **Churn Drivers**
-![Churn Drivers](./screenshots/churn_drivers.png)
-
-> 💡 يمكنكِ إضافة الصور لاحقًا داخل مجلد يسمى **screenshots** في GitHub.
+![Churn Drivers](https://drive.google.com/file/d/1F5wcLBEG5ImcpP8OzbQ14KDjfJmgsDNN/view?usp=sharing).
 
 ---
 
